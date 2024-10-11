@@ -3,5 +3,5 @@
 ### 
 ### Programador iniciante do iniciante
 ## From Recife
-### Fale comigo sobre: Futebol, Jogos, e certos animes
+### Fale comigo sobre: Futebol, Jogos  e certos animes
 
